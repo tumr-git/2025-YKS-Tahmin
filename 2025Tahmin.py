@@ -31,7 +31,7 @@ def use_2023(netler):
     return smm + 100
 def use_2021(netler):
     stds = '7.752 4.210 5.595 4.097'.split()
-    ort = '20.404 8.340 5.117 6.212'.split()
+    ort = '20.404 8.340 7.117 6.212'.split()
     z = []
     sm = 0
     for i in range(4):
